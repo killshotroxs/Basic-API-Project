@@ -1,3 +1,15 @@
 body{
     background-color: blue;
 }
+
+#dogimage{
+    text-align: center;
+}
+
+.primary-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 360px;
+}
