@@ -1,15 +1,27 @@
-body{
+body {
     background-color: blue;
-}
-
-#dogimage{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  #dogimage {
     text-align: center;
-}
-
-.primary-button{
+  }
+  
+  #dogimage img {
+    max-width: 500px;
+    max-height: 500px;
+  }
+  
+  .primary-button {
     display: flex;
+    flex-direction: column; /* Stack items vertically */
     justify-content: center;
     align-items: center;
     text-align: center;
-    margin-top: 360px;
-}
+    margin-top: 10px;
+  }
+  
