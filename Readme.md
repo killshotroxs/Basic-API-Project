@@ -6,4 +6,4 @@ The project utilizes HTML, CSS, and JavaScript to interact with the Dog API, whi
 
 It's a fun and interactive way to explore various adorable dog pictures! 😄
 
-## You can access the live version of this project from the link in About section of this Repository.
+## You can access the live version of this project from the link in About section of this Repository or here https://basic-api-project.vercel.app/
